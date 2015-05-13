@@ -1,0 +1,1 @@
+vlc tcp/h264://<Pi IP address>:8000/ --sout='#standard{mux=mov, dst=<datapath>/test_vid.mov, access=file}'
