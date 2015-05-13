@@ -1,0 +1,3 @@
+[submodule "UAV"]
+	path = UAV
+	url = https://github.com/DennyBone/UAV.git
